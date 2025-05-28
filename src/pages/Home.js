@@ -26,6 +26,7 @@ export default function Home() {
                                 download="Uday_Natthani_Resume.pdf"
                                 className="btn"
                             >
+                                
                                 Download Resume
                             </a>
                         </p>

@@ -14,6 +14,7 @@ export default function About() {
                     <h3>I'm Uday Natthani</h3>
                     <span className="tag">Software Developer</span>
                     
+                    
                     <p> A passionate Frontend Developer with a keen eye for crafting visually appealing and user-friendly web experiences. Currently pursuing my Bachelor of Engineering (BE) degree at Thadomal Shahani Engineering College, I am dedicated to combining creativity and technical skills to bring ideas to life on the web.. </p>
                     
                     <div className="box-container">
